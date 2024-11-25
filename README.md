@@ -1,5 +1,7 @@
 # TVLib
 
+![Poster](poster.png)
+
 ## Description
 TVLib is a comprehensive mod that enhances your Project Zomboid experience by providing a rich collection of TV shows and radio broadcasts. Customize and expand your in-game media with ease using our functions to add or replace TV shows.
 
