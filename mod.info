@@ -1,0 +1,10 @@
+name=TVLib
+id=TVLib
+description=This mod serves as a base library to manage TV shows dynamically.
+author=Kidkool1001
+version=1.0
+poster=poster.png
+
+pack=TVLib
+directory=TVLib
+script=media/lua/server/TVLibrary/TVLibrary_Init.lua
