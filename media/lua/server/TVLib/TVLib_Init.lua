@@ -1,0 +1,11 @@
+Events.OnGameBoot.Add(function()
+    print("TVLib initializing...")
+    TVLib.initializeCustomRadioData()
+    print("CustomRadioData.xml initialized from vanillaRadioData.xml.")
+end)
+
+Events.OnPreMapLoad.Add(function()
+    print("TVLib initializing...")
+    TVLib.initializeCustomRadioData()
+    print("CustomRadioData.xml initialized from vanillaRadioData.xml.")
+end)
