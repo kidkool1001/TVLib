@@ -7,4 +7,4 @@ poster=poster.png
 
 pack=TVLib
 directory=TVLib
-script=media/lua/server/TVLibrary/TVLibrary_Init.lua
+script=media/lua/server/TVLib/TVLib_Init.lua
